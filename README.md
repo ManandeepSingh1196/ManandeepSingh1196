@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently building low-level systems from scratch  <br> I’m looking to collaborate on systems programming, AI/ML projects, and performance-focused software  <br> I enjoy working close to the metal — C, C++, Assembly, Rust, and architecture  <br> I’m currently diving deeper into AI, algorithm design, and backend development  <br> Ask me about emulation, optimization, trading systems, or building things the hard way (on purpose)  <br> Fun fact: I like understanding how things work so much that I rewrite them myself.
+ I’m currently building low-level systems from scratch  <br> I’m looking to collaborate on systems programming, AI/ML projects, and performance-focused software  <br> I enjoy working close to the metal — C, C++, Assembly, Rust, and architecture  <br> I’m currently diving deeper into AI, algorithm design, and backend development  <br> Ask me about emulation, optimization, trading systems, or building things the hard way (on purpose)  <br> Fun fact: I like understanding how things work so much that I rewrite them myself.
 
 
 ## Socials:
