@@ -1,5 +1,10 @@
 # About Me:
- - I’m currently building low-level systems from scratch  <br> - I’m looking to collaborate on systems programming, AI/ML projects, and performance-focused software  <br> - I enjoy working close to the metal — C, C++, Assembly, Rust, and architecture  <br> - I’m currently diving deeper into AI, algorithm design, and backend development  <br> - Ask me about emulation, optimization, trading systems, or building things the hard way (on purpose)  <br> - I use Arch, btw.
+ - I’m currently building low-level systems from scratch
+ - I enjoy working close to the metal — C, C++, Assembly, Rust, and architecture
+ - Currently diving deeper into AI, algorithm design, and backend development
+ - I’m looking to collaborate on systems programming, AI/ML projects, and performance-focused software
+ - Ask me about emulation, optimization, trading systems, or building things the hard way (on purpose)
+ - I use Arch, btw.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manandeep-singh-lamba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manan801p@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/750551346511347902)
