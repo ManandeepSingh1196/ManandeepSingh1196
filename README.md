@@ -1,6 +1,7 @@
-# About Me:
+<h1 align="center">Hi, I'm Manandeep Singh</h1>
+
  - I’m currently building low-level systems from scratch
- - I enjoy working close to the metal — C, C++, Assembly, Rust, and architecture
+ - I enjoy working close to the metal: C, C++, Assembly, Rust, and architecture
  - Currently diving deeper into AI, algorithm design, and backend development
  - I’m looking to collaborate on systems programming, AI/ML projects, and performance-focused software
  - Ask me about emulation, optimization, trading systems, or building things the hard way (on purpose)
